@@ -62,7 +62,7 @@ public class CalculatorTest {
 		
 		Calculator cal = new Calculator(); 
 		//Act
-		int actual = cal.multiple(a, b); 
+		int actual = cal.multiply(a, b); 
 		
 		int expected = 144; 
 		//Asserts
